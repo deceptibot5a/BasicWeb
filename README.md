@@ -1,1 +1,1 @@
-[# BasicWeb](https://deceptibot5a.github.io/BasicWeb/)
+https://deceptibot5a.github.io/BasicWeb/
